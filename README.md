@@ -105,38 +105,74 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🇬🇧 English
 
-**🆓 Completely Free**
-No registration required, no premium plans, just pure anime streaming experience.
+**🛡️ No Ads Interruption**
+100% ad-free! Enjoy anime without any annoying ads interrupting your viewing experience.
 
-**🌏 Dual Language Support**
-Perfect for Indonesian and international anime fans with subtitle and dubbing options.
+**⚡ 1080p HD Support**
+High-quality 1080p HD video for the best viewing experience.
 
-**📺 HD Quality**
-Enjoy your favorite anime in crisp, high-definition quality.
+**⏩ Auto Skip Intro**
+Automatically skip intros to go straight to the main content.
 
-**🔒 Safe & Secure**
-Your viewing experience is our priority - safe and ad-optimized platform.
+**🌐 5-8 Server Options**
+Super fast servers with 5-8 alternative server choices.
+
+**📚 Complete Anime Collection**
+Anime collection & donghua from 1917 to present.
+
+**🌍 Multi Subtitle**
+Subtitles in multiple languages: Indonesian, English, and more.
+
+**📝 Custom Subtitle Upload**
+Upload your own custom subtitle files for a more personalized viewing experience.
+
+**🎬 Complete Features**
+Comics, soundtracks, trailers, character info, and voice actor details available for every anime.
+
+**📅 Monthly Release Schedule**
+Complete monthly release schedule with anime information coming soon.
+
+**👤 Login & Save History**
+Login to save your viewing history.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🇮🇩 Bahasa Indonesia
 
-**🆓 Sepenuhnya Gratis**
-Tidak perlu registrasi, tidak ada paket premium, hanya pengalaman streaming anime murni.
+**🛡️ Tanpa Iklan Sama Sekali**
+100% bebas iklan! Nikmati anime tanpa gangguan iklan sedikit pun.
 
-**🌏 Dukungan Dua Bahasa**
-Sempurna untuk penggemar anime Indonesia dan internasional dengan pilihan subtitle dan dubbing.
+**⚡ Support 1080p HD**
+Kualitas video HD 1080p untuk pengalaman menonton terbaik.
 
-**📺 Kualitas HD**
-Nikmati anime favorit Anda dalam kualitas tinggi yang jernih.
+**⏩ Auto Skip Intro**
+Skip intro otomatis untuk langsung ke konten utama.
 
-**🔒 Aman & Terpercaya**
-Pengalaman menonton Anda adalah prioritas kami - platform yang aman dan dioptimalkan.
+**🌐 Server Wushhh 5-8 Pilihan**
+Server super cepat dengan 5-8 pilihan server alternatif.
+
+**📚 Anime Terlengkap**
+Koleksi anime & donghua dari tahun 1917 sampai sekarang.
+
+**🌍 Multi Subtitle**
+Subtitle berbagai bahasa: Indonesia, English, dan lainnya.
+
+**📝 Custom Subtitle Sesukamu**
+Unggah file subtitle kustom Anda sendiri untuk pengalaman menonton yang lebih personal.
+
+**🎬 Fitur Lengkap**
+Tersedia Comic, soundtrack, trailer, informasi karakter dan pengisi suara untuk setiap anime.
+
+**📅 Jadwal Rilis 1 Bulan**
+Jadwal rilis anime lengkap untuk 1 bulan penuh dan informasi anime yang akan datang.
+
+**👤 Login & Save History**
+Login untuk menyimpan history tontonan Anda.
 
 </td>
 </tr>
