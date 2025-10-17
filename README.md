@@ -23,7 +23,7 @@
 ## 🌐 Quick Links / Link Cepat
 
 <p align="center">
-  <a href="https://sankanime.com">
+  <a href="https://link.sankanime.com">
     <img src="https://img.shields.io/badge/🌐_Main_Site-Sankanime.com-FF6B6B?style=for-the-badge" />
   </a>
   <a href="https://backup.sankanime.com/">
@@ -329,7 +329,7 @@ Sankanime adalah platform streaming anime gratis. Semua konten bersumber dari su
 <div align="center">
   <h2>🎉 Start Watching Now! / Mulai Menonton Sekarang!</h2>
   
-  <a href="https://sankanime.com">
+  <a href="https://link.sankanime.com">
     <img src="https://img.shields.io/badge/🌐_VISIT-SANKANIME.COM-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
