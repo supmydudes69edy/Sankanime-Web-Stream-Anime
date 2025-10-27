@@ -295,6 +295,20 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, jangan ragu untuk menghubu
 
 ## 📱 Connect With Us / Hubungi Kami
 
+<div align="center">
+  <h3>🔔 Follow us for updates and anime recommendations!</h3>
+  <h3>🔔 Follow kami untuk update dan rekomendasi anime!</h3>
+</div>
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbBv5edGk1Fo8WbsAK1V">
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sankanime34">
+    <img src="https://img.shields.io/badge/Facebook_Fanspage-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.tiktok.com/@sandikaaa78">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
